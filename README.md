@@ -21,7 +21,7 @@ Forked from https://github.com/PythonNut/jupyterlab_autoscrollcelloutput
 To install the extension, execute:
 
 ```bash
-pip install jupyterlab_autoscrollcelloutput-0.1.2.tar.gz
+pip install jupyterlab_autoscrollcelloutput-0.2.0.tar.gz
 ```
 
 ## Uninstall
