@@ -6,20 +6,22 @@ A JupyterLab extension to automatically scroll code cell output to the bottom.
 
 Lots of credit goes to https://github.com/wallneradam/jupyterlab-output-auto-scroll
 
+Forked from https://github.com/PythonNut/jupyterlab_autoscrollcelloutput
+
 ![auto scroll example](autoscroll.gif)
 
 
 
 ## Requirements
 
-* JupyterLab >= 3.0
+* JupyterLab >= 4.0 (tested with 4.4.10)
 
 ## Install
 
 To install the extension, execute:
 
 ```bash
-pip install jupyterlab_autoscrollcelloutput
+pip install jupyterlab_autoscrollcelloutput-0.1.2.tar.gz
 ```
 
 ## Uninstall
